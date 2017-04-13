@@ -1,3 +1,11 @@
+
+原文链接，http://blog.cocoachina.com/article/34636
+
+非常感谢上面网友的分享，以下都是来自他的阐述。只是download之后，为了熟悉代码，稍稍进行了如下两处改动：
+* 使用MJExtension解析model
+* 使用cocoapod管理第三方库
+
+
 ###朋友的鼓励是我继续分享的动力，动动小手点击右上角的✨Star✨，让我知道你来过。。。
                                                                                       
 #开篇
